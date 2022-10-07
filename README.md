@@ -12,6 +12,7 @@ You get blunderbuss, torch, holy water, zombie bait, zombie boom bait, & zombie 
 - In order to use zombie boom bait or zombie spit, you must use demonic rev weapon spawner to force those weapons in your hand or use the example function in example.c
 - In example.c you will see a force weapon in hand function, and you will also see the pointer that allows blunderbuss, torch, and er without having to ER bypass.
 - That pointer only works with the above mentioned game version. Feel free to find that same pointer on diff game versions/platforms.
+- This script should work fine on a retail console via iso modding (xbox 360), however if you instant crash/freeze then delete the pointer from the source that blocks weapon deletes.
 
 - Video on how to ER Bypass works pretty much the same on xbox 360 and ps3: https://www.youtube.com/watch?v=JeBuLUAxGUE
 - At mainmenu where it says press start, just unplug your ethernet cable and press start at the same time, replug ethernet cable back in, wait 10-15 seconds and sign back into xbl/psn then go online and if you spawn with the explosive rifle (er) then you did it correctly.
