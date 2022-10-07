@@ -13,6 +13,9 @@ You get blunderbuss, torch, holy water, zombie bait, zombie boom bait, & zombie 
 - In example.c you will see a force weapon in hand function, and you will also see the pointer that allows blunderbuss, torch, and er without having to ER bypass.
 - That pointer only works with the above mentioned game version. Feel free to find that same pointer on diff game versions/platforms.
 
+- Video on how to ER Bypass works pretty much the same on xbox 360 and ps3: https://www.youtube.com/watch?v=JeBuLUAxGUE
+- At mainmenu where it says press start, just unplug your ethernet cable and press start at the same time, replug ethernet cable back in, wait 10-15 seconds and sign back into xbl/psn then go online and if you spawn with the explosive rifle (er) then you did it correctly.
+
 Created by Sockstress (Райан) & CabooseSayzWTF
 
 Help from ImFoxxyyy & Cain532 for native documentation
